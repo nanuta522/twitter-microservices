@@ -103,11 +103,19 @@ HTTP methods define the types of actions that can be performed on a resource.
 
 ## UML Class Diagram
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/83771741/206518364-f2c528c3-022e-4cd8-891b-83caf7512c2a.png">
+
+
+![twitter-class-diagram](https://user-images.githubusercontent.com/83771741/211674158-89897c66-7efd-4c24-a6d8-a99200d5782e.jpg)
+
+
 
 ## Use Case Diagram
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/83771741/206531258-5e64a8ef-1d40-4cd2-902c-7f1f07ecd74e.png">
+
+
+![use-case-diagram](https://user-images.githubusercontent.com/83771741/211679514-3d524bae-7e80-4c1b-b450-99c75bd7e204.jpg)
+
+
 
 ## HTTP Responses
 
